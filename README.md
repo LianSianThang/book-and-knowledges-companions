@@ -1,4 +1,4 @@
-# Desktop Apps
+# Book and Knowledges Companions
 
 Official Windows downloads for DeepThread and Book Companion.
 
@@ -35,4 +35,3 @@ ADF52969EE6CCD81BF1841469F1ECE55A5AF3130307742AF4CB6E1EB32667664
 ## Windows notice
 
 These applications are currently unsigned. Windows may show an “Unknown publisher” warning during installation.
-
