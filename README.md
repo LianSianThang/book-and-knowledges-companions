@@ -2,6 +2,8 @@
 
 Official Windows downloads for DeepThread and Book Companion.
 
+**Website:** https://liansianthang.github.io/book-and-knowledges-companions/
+
 ## DeepThread
 
 Turn documents and websites into connected knowledge, then explore ideas and discuss them with an AI companion.
